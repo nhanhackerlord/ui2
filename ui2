@@ -163,7 +163,7 @@ do
             ThunderImageUI.BorderSizePixel = 0
             ThunderImageUI.Position = UDim2.new(0.0, 0, 0.0, 0)
             ThunderImageUI.Size = UDim2.new(0, 50, 0, 50)
-            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=113837585144957"
+            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=130949684030921"
     
     _G.Logo = 14103696428
     _G.Logo1 = 13717478897
