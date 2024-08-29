@@ -317,7 +317,7 @@ do
     Menu_Setting.BackgroundTransparency = 1
     Menu_Setting.Position = UDim2.new(0, 450, 0, 7)
     Menu_Setting.Size = UDim2.new(0, 25, 0, 25)
-    Menu_Setting.Image = "http://www.roblox.com/asset/?id=14479606771"
+    Menu_Setting.Image = "http://www.roblox.com/asset/?id=113837585144957"
     
     Menu_Setting.ImageColor3 = Color3.fromRGB(184,184,184)
     Menu_Setting.ZIndex = 10
@@ -329,7 +329,7 @@ do
     Settings.BackgroundTransparency = 1
     Settings.Position = UDim2.new(0, 480, 0, 7)
     Settings.Size = UDim2.new(0, 25, 0, 25)
-    Settings.Image = "http://www.roblox.com/asset/?id=14479568523"
+    Settings.Image = "http://www.roblox.com/asset/?id=113837585144957"
     Settings.ImageColor3 = Color3.fromRGB(184,184,184)
     Settings.ZIndex = 10
     
@@ -2021,7 +2021,7 @@ do
     ImageButton.Position = UDim2.new(1, -25, 0.5, 0)
     ImageButton.Size = UDim2.new(0, 12, 0, 12)
     ImageButton.ZIndex = 16
-    ImageButton.Image = "http://www.roblox.com/asset/?id=113837585144957"
+    ImageButton.Image = "http://www.roblox.com/asset/?id=129098239497998"
     local DropTable = {}
     Scroll_Items.Name = "Scroll_Items"
     Scroll_Items.Parent = MainDropDown
