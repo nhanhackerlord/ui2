@@ -163,7 +163,7 @@ do
             ThunderImageUI.BorderSizePixel = 0
             ThunderImageUI.Position = UDim2.new(0.0, 0, 0.0, 0)
             ThunderImageUI.Size = UDim2.new(0, 50, 0, 50)
-            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=13717478897"
+            ThunderImageUI.Image = "http://www.roblox.com/asset/?id=113837585144957"
     
     _G.Logo = 14103696428
     _G.Logo1 = 13717478897
@@ -745,7 +745,7 @@ do
     Text2.Size = UDim2.new(0, 40, 0, 12)
     Text2.ZIndex = 16
     Text2.Font = Enum.Font.GothamBold
-    Text2.Text = "Subscribe Youtube MinGaming !"
+    Text2.Text = "Mura Hub Never Die!"
     Text2.TextColor3 = Color3.fromRGB(184,184,184)
     Text2.TextSize = 14.000
     
@@ -905,7 +905,7 @@ do
     Textlval3.Size = UDim2.new(0, 40, 0, 12)
     Textlval3.ZIndex = 16
     Textlval3.Font = Enum.Font.GothamBold
-    Textlval3.Text = "DESTROY GUI"
+    Textlval3.Text = "DONT CLICK HERE"
     Textlval3.TextColor3 = Color3.fromRGB(184,184,184)
     Textlval3.TextSize = 14.000
     
@@ -2021,7 +2021,7 @@ do
     ImageButton.Position = UDim2.new(1, -25, 0.5, 0)
     ImageButton.Size = UDim2.new(0, 12, 0, 12)
     ImageButton.ZIndex = 16
-    ImageButton.Image = "http://www.roblox.com/asset/?id=129098239497998"
+    ImageButton.Image = "http://www.roblox.com/asset/?id=6282522798"
     local DropTable = {}
     Scroll_Items.Name = "Scroll_Items"
     Scroll_Items.Parent = MainDropDown
