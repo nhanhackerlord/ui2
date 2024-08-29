@@ -1534,7 +1534,7 @@ do
     MainToggle_3.Position = UDim2.new(0.5, 0, 0.5, 0)
     MainToggle_3.Size = UDim2.new(0, 0, 0, 0)
     MainToggle_3.ZIndex = 16
-    MainToggle_3.Image = "http://www.roblox.com/asset/?id=97243687881592"
+    MainToggle_3.Image = "http://www.roblox.com/asset/?id=6031068421"
     MainToggle_3.ImageColor3 = _G.Color
     MainToggle_3.Visible = false
     UICorner_3.CornerRadius = UDim.new(0, 3)
